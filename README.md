@@ -1,2 +1,1 @@
-# OpenMP-based-parallel-implementation-of-image-enhancement-technique-
 Project : An OpenMP based parallel implementation of image enhancement technique for dark images. We implement the image enhancement algorithm in C++ and OpenMP is used for parallel execution. Independent pixel loops use #pragma omp parallel for to process multiple pixels simultaneously.
